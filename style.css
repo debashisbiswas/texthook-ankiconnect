@@ -1,0 +1,19 @@
+body {
+    background-color: #202020;
+    color: #BCBCBC;
+    font-size: 2em;
+    line-height: 150%;
+    margin-top: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 20%;
+    font-family: 'Noto Serif JP', 'Noto Serif', serif;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
